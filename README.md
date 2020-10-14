@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mail@thomaspauli.ch**
 
-- ⚡ Fun fact **I drink more coffee than water.**
+- ⚡ Fun fact: **I drink more coffee than water.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
