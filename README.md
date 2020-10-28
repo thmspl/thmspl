@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thmspl&label=Profile%20views&color=0e75b6&style=flat" alt="thmspl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thmspl" alt="thmspl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thmspl&theme=onedark" alt="thmspl" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thmspl" target="blank"><img src="https://img.shields.io/twitter/follow/thmspl?logo=twitter&style=for-the-badge" alt="thmspl" /></a> </p>
 
